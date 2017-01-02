@@ -2,14 +2,19 @@
     "name": "ohm",
     "displayName": "Ohm Language",
     "description": "Ohm language support for Visual Studio Code",
+    "author": "Attila Hajdrik",
     "version": "1.0.0",
-    "publisher": "attilahajdrik",
+    "publisher": "attilah",
     "engines": {
         "vscode": "^1.5.0"
     },
     "categories": [
         "Languages"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/attilah/ohm-vscode"
+    },
     "contributes": {
         "languages": [{
             "id": "ohm",
